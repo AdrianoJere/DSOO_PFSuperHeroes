@@ -1,0 +1,13 @@
+C:\Users\FliaAC\Desktop\ITFS 29 - Tecnicatura\7 - Desarrollo de Sistemas OOB\Prácticas formativas autogestionadas\superHeroes\bin\Debug\netcoreapp3.1\superHeroes.exe
+C:\Users\FliaAC\Desktop\ITFS 29 - Tecnicatura\7 - Desarrollo de Sistemas OOB\Prácticas formativas autogestionadas\superHeroes\bin\Debug\netcoreapp3.1\superHeroes.deps.json
+C:\Users\FliaAC\Desktop\ITFS 29 - Tecnicatura\7 - Desarrollo de Sistemas OOB\Prácticas formativas autogestionadas\superHeroes\bin\Debug\netcoreapp3.1\superHeroes.runtimeconfig.json
+C:\Users\FliaAC\Desktop\ITFS 29 - Tecnicatura\7 - Desarrollo de Sistemas OOB\Prácticas formativas autogestionadas\superHeroes\bin\Debug\netcoreapp3.1\superHeroes.runtimeconfig.dev.json
+C:\Users\FliaAC\Desktop\ITFS 29 - Tecnicatura\7 - Desarrollo de Sistemas OOB\Prácticas formativas autogestionadas\superHeroes\bin\Debug\netcoreapp3.1\superHeroes.dll
+C:\Users\FliaAC\Desktop\ITFS 29 - Tecnicatura\7 - Desarrollo de Sistemas OOB\Prácticas formativas autogestionadas\superHeroes\bin\Debug\netcoreapp3.1\superHeroes.pdb
+C:\Users\FliaAC\Desktop\ITFS 29 - Tecnicatura\7 - Desarrollo de Sistemas OOB\Prácticas formativas autogestionadas\superHeroes\obj\Debug\netcoreapp3.1\superHeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FliaAC\Desktop\ITFS 29 - Tecnicatura\7 - Desarrollo de Sistemas OOB\Prácticas formativas autogestionadas\superHeroes\obj\Debug\netcoreapp3.1\superHeroes.AssemblyInfoInputs.cache
+C:\Users\FliaAC\Desktop\ITFS 29 - Tecnicatura\7 - Desarrollo de Sistemas OOB\Prácticas formativas autogestionadas\superHeroes\obj\Debug\netcoreapp3.1\superHeroes.AssemblyInfo.cs
+C:\Users\FliaAC\Desktop\ITFS 29 - Tecnicatura\7 - Desarrollo de Sistemas OOB\Prácticas formativas autogestionadas\superHeroes\obj\Debug\netcoreapp3.1\superHeroes.csproj.CoreCompileInputs.cache
+C:\Users\FliaAC\Desktop\ITFS 29 - Tecnicatura\7 - Desarrollo de Sistemas OOB\Prácticas formativas autogestionadas\superHeroes\obj\Debug\netcoreapp3.1\superHeroes.dll
+C:\Users\FliaAC\Desktop\ITFS 29 - Tecnicatura\7 - Desarrollo de Sistemas OOB\Prácticas formativas autogestionadas\superHeroes\obj\Debug\netcoreapp3.1\superHeroes.pdb
+C:\Users\FliaAC\Desktop\ITFS 29 - Tecnicatura\7 - Desarrollo de Sistemas OOB\Prácticas formativas autogestionadas\superHeroes\obj\Debug\netcoreapp3.1\superHeroes.genruntimeconfig.cache
